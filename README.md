@@ -1,4 +1,6 @@
 # Implementation-of-Erosion-and-Dilation
+# NAME: THIRISHA A
+# REG NO: 212223040228
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
